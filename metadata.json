@@ -1,0 +1,6 @@
+{
+  "name": "AuraBrand — Brand Bible & Identity Studio",
+  "description": "Comprehensive Brand Identity Generator crafting complete brand bibles, 1K/2K/4K logos, secondary marks, 5-color palettes, Google Font typography pairings, and AI creative direction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
