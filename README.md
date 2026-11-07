@@ -4,9 +4,9 @@
 
 ---
 
-## 💖 Sponsor Ivory Tower BBS
+## 💖 Sponsor AuraBrand — AI Brand Identity Studio & Brand Bible Generator
 
-Ivory Tower BBS is an open-source project built with passion and dedication. Want to support the continued development of this project? You can!
+AuraBrand — AI Brand Identity Studio & Brand Bible Generator is an open-source project built with passion and dedication. Want to support the continued development of this project? You can!
 
 **Sponsor this project by making a donation via PayPal:**
 
